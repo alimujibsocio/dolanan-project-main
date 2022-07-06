@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81587119690",
+    "project_id": "ali-mujib-project",
+    "storage_bucket": "ali-mujib-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81587119690:android:41b7e3c0804b163c6f28b3",
+        "android_client_info": {
+          "package_name": "com.alimujib.ali_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81587119690-691k3fagstrh5r22plgaa5tc6qvdr7je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alimujib.ali_project_app",
+            "certificate_hash": "5267b517c494ae2752a65ca4859c078ddfe3eeb9"
+          }
+        },
+        {
+          "client_id": "81587119690-t7pc7tvhikshmhc500riv9f4uhn55kmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxe2KEUtWijJCzF_otyMgc3Wz8_WZve9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81587119690-t7pc7tvhikshmhc500riv9f4uhn55kmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
